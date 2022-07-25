@@ -11,6 +11,4 @@
 [![Project1](https://github-readme-stats.vercel.app/api/pin/?username=P0u4a&repo=Cloud-Ninja&show_owner=false&theme=radical)](https://github.com/P0u4a/Cloud-Ninja)
 
 # 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=P0u4a&show_icons=true&theme=radical&hide_border=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=P0u4a&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=P0u4a&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=P0u4a&show_icons=true&theme=radical&hide_border=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=P0u4a&theme=radical&hide_border=false)<br/>
