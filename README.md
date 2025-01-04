@@ -1,3 +1,3 @@
 # Hi there, I'm Pouya 👋
 
-[Check this out](https://pouyamiri.com/)
+<kbd><a href="https://pouyamiri.com/">Click me</a></kbd>
