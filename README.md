@@ -1,3 +1,11 @@
 # Hi there, I'm Pouya 👋
 
-<kbd><a href="https://pouyamiri.com/">Click me</a></kbd>
+### I write sometimes
+
+https://pouyamiri.com/
+
+### Current interests
+
+- space-proof software
+- embodied AI
+- on-device training
