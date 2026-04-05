@@ -6,6 +6,6 @@ https://pouyamiri.com/
 
 ### Current interests
 
-- space-proof software
+- voice agents
 - embodied AI
 - on-device training
