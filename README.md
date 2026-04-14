@@ -2,7 +2,7 @@
 
 ### I write sometimes
 
-https://pouyamiri.com/
+https://pouyamiri.com/blog
 
 ### Current interests
 
