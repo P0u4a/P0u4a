@@ -8,4 +8,4 @@ https://pouyamiri.com/blog
 
 - Mechanistic Interpretability and SAEs
 - Optimising LLM inference on edge-devices
-- RSI
+- AI-native interfaces
