@@ -6,6 +6,6 @@ https://pouyamiri.com/blog
 
 ### Current interests
 
-- voice agents
-- embodied AI
-- on-device training
+- Mechanistic Interpretability and SAEs
+- Optimising LLM inference on edge-devices
+- RSI
